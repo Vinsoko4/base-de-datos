@@ -1,0 +1,13 @@
+.alert-container {
+    position: absolute;
+    padding: 10px;
+    text-align: center;
+}
+
+.success {
+    background-color: green;
+}
+
+.danger {
+    background-color: tomato;
+}
